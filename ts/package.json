@@ -1,0 +1,13 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "test task for ts",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "build": "tsc main.ts",
+    "clear": "node removeFile.js"
+  },
+  "author": "Diana Nikova <nickova92@gmail.com>",
+  "license": "ISC"
+}
